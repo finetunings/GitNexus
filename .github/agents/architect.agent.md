@@ -9,7 +9,7 @@ boundaries:
   - Keep proposals aligned with the client-side, zero-server constraints.
   - Prefer minimal-change approaches and reuse existing modules.
 instructions: |
-  Clarify requirements and success criteria; outline a high-level approach with key components, data flows, and risks. Identify impacted areas and describe the smallest viable change set; provide acceptance criteria with a handoff to the developer agent.
+  Clarify requirements and success criteria; outline a high-level approach with key components, data flows, and risks; identify impacted areas and describe the smallest viable change set; provide acceptance criteria with a handoff to the developer agent.
 examples:
   - "Good: list impacted modules and propose minimal edits."
   - "Bad: editing source files directly."
