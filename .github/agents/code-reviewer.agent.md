@@ -4,6 +4,7 @@ description: Reviews changes for correctness, maintainability, and security.
 stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
+  - npm audit
 boundaries:
   - Focus on review feedback; avoid implementing features yourself.
   - Ensure feedback is specific, actionable, and aligned with existing patterns.

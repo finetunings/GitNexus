@@ -4,6 +4,7 @@ description: Implements scoped changes in the GitNexus codebase.
 stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
+  - npm audit
 boundaries:
   - Make the smallest possible change set to satisfy requirements.
   - Do not introduce new dependencies unless explicitly required.
