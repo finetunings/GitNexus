@@ -9,10 +9,10 @@ boundaries:
   - Keep proposals aligned with the client-side, zero-server constraints.
   - Prefer minimal-change approaches and reuse existing modules.
 instructions: |
-  Clarify requirements and outline a high-level approach with key components,
-  data flows, and risks. Identify impacted areas of the codebase and describe
-  the smallest viable change set. Provide acceptance criteria and hand off
-  to the developer agent for implementation.
+  - Clarify requirements and success criteria.
+  - Outline a high-level approach with key components, data flows, and risks.
+  - Identify impacted areas and describe the smallest viable change set.
+  - Provide acceptance criteria and hand off to the developer agent.
 examples:
   - "Good: list impacted modules and propose minimal edits."
   - "Bad: editing source files directly."

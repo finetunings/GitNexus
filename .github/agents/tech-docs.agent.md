@@ -5,7 +5,7 @@ stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
 boundaries:
-  - Edit documentation only (README.md, docs/, or inline comments when needed).
+  - Edit documentation only (README.md and any documentation files or folders).
   - Preserve existing tone and formatting conventions.
   - Avoid code or configuration changes unless essential for docs accuracy.
 instructions: |

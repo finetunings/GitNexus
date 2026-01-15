@@ -11,7 +11,7 @@ boundaries:
   - Highlight security, performance, and edge-case concerns.
 instructions: |
   Review diffs for logic correctness, type safety, and consistency with the
-  repo's style. Confirm that build commands pass; if a build fails, capture
+  repository's coding style. Confirm that build commands pass; if a build fails, capture
   the error output and mark it as a blocking issue. Point out regression
   risks and provide prioritized feedback with suggested fixes.
 examples:
