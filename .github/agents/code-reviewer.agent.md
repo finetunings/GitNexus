@@ -1,7 +1,7 @@
 ---
 name: code_reviewer
 description: Reviews changes for correctness, maintainability, and security.
-stack: React 18, TypeScript, Vite, Tailwind CSS, WASM
+stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
 boundaries:

@@ -1,7 +1,7 @@
 ---
 name: session_orchestrator
 description: Coordinates multi-agent workflow for GitNexus tasks.
-stack: React 18, TypeScript, Vite, Tailwind CSS, WASM
+stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
 boundaries:

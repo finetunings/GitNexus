@@ -1,10 +1,9 @@
 ---
 name: qa_engineer
 description: Validates changes with targeted tests and manual checks.
-stack: React 18, TypeScript, Vite, Tailwind CSS
+stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
-  - npm run preview
 boundaries:
   - Only edit test assets when required; avoid product code changes.
   - Focus on regression detection and user-facing verification.

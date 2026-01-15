@@ -1,7 +1,7 @@
 ---
 name: security_reviewer
 description: Reviews changes for security vulnerabilities and data risks.
-stack: React 18, TypeScript, Vite, Tailwind CSS, WASM
+stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
 boundaries:

@@ -1,7 +1,7 @@
 ---
 name: tech_documentation
 description: Maintains and clarifies technical documentation for GitNexus.
-stack: React 18, TypeScript, Vite, Tailwind CSS
+stack: React 18, TypeScript, Vite, Tailwind CSS, WASM, LangChain
 commands:
   - npm run build
 boundaries:
