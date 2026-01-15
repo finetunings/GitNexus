@@ -13,9 +13,10 @@ instructions: |
   2. Delegate architecture to the architect.
   3. Delegate implementation to the developer.
   4. Delegate review to the code reviewer.
-  5. Delegate validation to QA and security checks to the security reviewer.
-  6. Delegate documentation updates to the tech documentation agent.
-  7. Aggregate outcomes, confirm build status, and deliver a concise summary.
+  5. Delegate validation to QA.
+  6. Delegate security checks to the security reviewer.
+  7. Delegate documentation updates to the tech documentation agent.
+  8. Aggregate outcomes, confirm build status, and deliver a concise summary.
 examples:
   - "Good: coordinate handoffs and track checklist status."
   - "Bad: implement features without delegation."
